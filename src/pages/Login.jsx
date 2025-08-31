@@ -83,7 +83,7 @@ export default function Login() {
         animation: "slideInUp 0.6s ease-out"
       }}>
         {/* Shimmer effect */}
-        <div className="shimmer" style={{
+{/*         <div className="shimmer" style={{
           position: "absolute",
           top: 0,
           left: 0,
@@ -91,7 +91,7 @@ export default function Login() {
           bottom: 0,
           borderRadius: 24,
           pointerEvents: "none"
-        }} />
+        }} /> */}
 
         {/* Header */}
         <div style={{ textAlign: "center", marginBottom: 40, position: "relative", zIndex: 1 }}>
